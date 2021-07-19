@@ -1,0 +1,39 @@
+ body{
+  background-image: url("background.jpg");
+  }
+  #heading{
+width: 100%;
+margin-top: 0%;
+height: 200px;
+font-size: 24px;
+font-family: cursive;
+box-shadow:0px 0px 18px red;
+color: black;
+border-radius: 40px;
+  }
+  .title{
+    color: black;
+  font-size: 18px;
+  background-color: white;
+  width: 550px;
+  height: 100;
+  border-radius: 40px;
+  box-shadow:0px 0px 18px red;
+  }
+  .subtitle{
+  font-size: 15px;
+  }
+  .copy_right_footer{
+    font-size: 12px;
+  font-family: monospace;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  background-color: chocolate;
+  text-align: center;
+  }
+  canvas{
+  border:5px dotted black;
+  
+  }
+ 
